@@ -67,9 +67,6 @@ java Main
 
 ---
 
-## 📸 Screenshots
-
-*(Add your project screenshots here)*
 
 ---
 
@@ -115,9 +112,9 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+Ariv Joshi
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Arivjoshi
 
 ---
 
